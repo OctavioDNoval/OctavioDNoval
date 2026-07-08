@@ -1,11 +1,14 @@
 # Octavio Noval
 
-**Full-Stack Developer** — TUP student at UTN, passionate about building real-world applications from the database to the frontend.
+**Full-Stack Developer** — TUP student at UTN, building real-world applications from the database to the frontend.
 
 I focus on clean architecture, team collaboration, and writing code that ships. I work mostly with Java/Spring Boot for backends and React/React Native for frontends, with a growing interest in DevOps and infrastructure.
 
+When I'm not coding, you'll find me at the gym, at the beach, or exploring new tech.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-noval-ab159230b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/octavio_noval)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio2-0-pi-six.vercel.app)
 [![Email](https://img.shields.io/badge/odnr2004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:odnr2004@gmail.com)
 
 ---
@@ -23,19 +26,29 @@ I focus on clean architecture, team collaboration, and writing code that ships. 
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### [M3Almacenamiento-api](https://github.com/OctavioDNoval/M3Almacenamiento-api)
-
-A warehouse management API built with **Java** and **Spring Boot**, designed to handle inventory, stock movements, and storage operations. RESTful architecture with a clean layered structure.
-
+Warehouse management API built with **Java** and **Spring Boot** — RESTful architecture for inventory, stock movements, and storage.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Stars](https://img.shields.io/github/stars/OctavioDNoval/M3Almacenamiento-api?style=flat-square)
+
+### [Portfolio2.0](https://github.com/OctavioDNoval/Portfolio2.0)
+Personal portfolio built with **React** and hosted on Vercel — clean design showcasing my work and skills.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) [![Live](https://img.shields.io/badge/Live-0078D4?style=flat-square&logo=vercel&logoColor=white)](https://portfolio2-0-pi-six.vercel.app)
+
+### [TopDeck](https://github.com/OctavioDNoval/TopDeck)
+E-commerce web app for an import business, with a **Spring Boot** API backend and a **React** frontend deployed on Netlify.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 [![GitHub Stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
+### Contribution Graph
+
+![Snake](images/snake.svg)
 
 ---
 
