@@ -35,8 +35,7 @@ A warehouse management API built with **Java** and **Spring Boot**, designed to 
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OctavioDNoval&theme=neon&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/OctavioDNoval)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioDNoval&theme=neon&hide_border=false&layout=compact)](https://github.com/OctavioDNoval)
+[![GitHub Stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 ---
 
