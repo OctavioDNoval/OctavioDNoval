@@ -8,7 +8,7 @@ When I'm not coding, you'll find me at the gym, at the beach, or exploring new t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-noval-ab159230b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/octavio_noval)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio2-0-pi-six.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://octavionoval.vercel.app/)
 [![Email](https://img.shields.io/badge/odnr2004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:odnr2004@gmail.com)
 
 ---
